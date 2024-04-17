@@ -1,2 +1,2 @@
 # jenkins-test2
-vala man nmidonam!!!!!!!@!
+vala man nmidonam!!!!!!!@!!
